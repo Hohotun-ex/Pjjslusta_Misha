@@ -1,0 +1,17 @@
+D:\visualstudi\WinFormsApp3\WinFormsApp3\bin\Debug\net10.0-windows\WinFormsApp3.exe
+D:\visualstudi\WinFormsApp3\WinFormsApp3\bin\Debug\net10.0-windows\WinFormsApp3.deps.json
+D:\visualstudi\WinFormsApp3\WinFormsApp3\bin\Debug\net10.0-windows\WinFormsApp3.runtimeconfig.json
+D:\visualstudi\WinFormsApp3\WinFormsApp3\bin\Debug\net10.0-windows\WinFormsApp3.dll
+D:\visualstudi\WinFormsApp3\WinFormsApp3\bin\Debug\net10.0-windows\WinFormsApp3.pdb
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.Form1.resources
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.dll
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\refint\WinFormsApp3.dll
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.pdb
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\ref\WinFormsApp3.dll
+D:\visualstudi\WinFormsApp3\WinFormsApp3\obj\Debug\net10.0-windows\WinFormsApp3.fTown.resources
